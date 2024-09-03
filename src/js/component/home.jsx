@@ -11,7 +11,7 @@ const Home = () => {
 		<>
 			<Nav />
 			<Middle />
-			<Footer/>	
+			<Footer text="Copyright @ my website 2024"/>	
 
 		</>	
 
